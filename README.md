@@ -7,3 +7,7 @@ Instructions to install
   3. Download the Install package folder and run it. The installer places a shortcut on the desktop, and places the application in Program Files(x86)\Syracuse Travel\AirlineManager
   4. In the folder where the program was installed, there is a file called "ConnnectionString.txt". This file contains the connection string that will allow the program to connect to the database. Update this file with the user credentials that will give access to the database on your instance of MySql.
   5. The program should run at this point, using the shortcut on the desktop.
+  6. The login for the Admin user is "Admin" and password "Admin". 
+  7. You can enter new flight information as the Admin user.
+  8. You can register a new user, and the flight information screen is then read-only, allowing the user to select a flight and a seat and buy a ticket.
+
